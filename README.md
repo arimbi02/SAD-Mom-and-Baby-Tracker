@@ -1,3 +1,7 @@
+Login dengan
+Username: admin@gmail.com
+Password: Admin12-
+
 📌 Deskripsi Repository
 SAD - Mom and Baby Tracker merupakan aplikasi web yang dikembangkan sebagai bagian dari pemenuhan tugas mata kuliah System Analysis and Design. Aplikasi ini berfungsi untuk membantu ibu dalam memantau kesehatan reproduksi dan tumbuh kembang bayi sejak masa kehamilan hingga usia 12 bulan.
 
